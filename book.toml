@@ -2,7 +2,7 @@
 authors = ["John Stobaeus"]
 language = "en"
 
-src = "."
+src = "src"
 title = "Stobaeus Anthology"
 
 [build]
