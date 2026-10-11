@@ -1,0 +1,9 @@
+[book]
+authors = ["John Stobaeus"]
+language = "en"
+multilingual = false
+src = "."
+title = "Stobaeus Anthology"
+
+[build]
+build-dir = "book"
