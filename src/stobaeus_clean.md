@@ -372,7 +372,7 @@ AND TO THE ENTIRE MOST DISTINGUISHED ORDER OF THE SENATE,
 THEIR MOST HONORED LORDS,
 CONRAD GESNER OF ZURICH,
 
-### SENDS GREETINGS AND PEACE IN OUR LORD JESUS CHRIST.
+
 Indeed, most illustrious men, I cannot approve of those who criticize the ancient custom, whereby anyone
 wishing his works of genius and scholarship to be published dedicates them to others whom he loves or
 reveres, as being illiberal. For while dedicating a work of learning to other men is a signal act of humanity
