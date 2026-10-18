@@ -7,3 +7,6 @@ title = "Stobaeus Anthology"
 
 [build]
 build-dir = "book"
+[output.html]
+theme = "src"
+
